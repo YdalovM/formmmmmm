@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+table {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+    gap: 20px;
+    width: 450px;
+    background-color: aqua;
+}
+
+.tr__head {
+    display: flex;
+    gap: 30px;
+}
+
+.tr__body {
+    display: flex;
+    gap: 40px;
+    margin-left: 50px;
+}
